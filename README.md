@@ -1,2 +1,2 @@
-# odn-etch-a-sketch
+# odin-etch-a-sketch
 fourth odin project
